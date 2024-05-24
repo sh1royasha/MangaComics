@@ -1,0 +1,6 @@
+const ProtectRoute = () =>{
+    return(
+        <>
+        </>
+    )
+}
